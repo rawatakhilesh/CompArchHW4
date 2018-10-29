@@ -77,9 +77,9 @@ def helper(root_dir):
 							calculate(list, bm_name)
 							print('\n')
 
-		print('total_cycles_list = {}'.format(total_cycles_list))
-		print('IPC_list = {}'.format(IPC_list))
-		print('MPKI_list = {}'.format(MPKI_list))
+		print('total_cycles_list: {}'.format(total_cycles_list))
+		print('IPC_list: {}'.format(IPC_list))
+		print('MPKI_list: {}'.format(MPKI_list))
 
 	except Exception as error:
 		print(error)

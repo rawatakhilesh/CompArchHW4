@@ -1,0 +1,257 @@
+walking /home/comparch/Desktop/casim/zsim/outputs/hw4/LFU ...
+
+for benchmark milc ...
+reading zsim.out ...
+cycles: 124272097 # Simulated unhalted cycles
+cCycles: 26195341 # Cycles due to contention stalls
+instrs: 100005640 # Simulated instructions
+mGETS: 1454570 # GETS misses
+mGETXIM: 39973 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['124272097']
+['26195341']
+total_cycles: 150467438.0
+['100005640']
+IPC: 0.6646331015485224
+['1454570'],['39973'],['0']
+total_misses: 1494543.0
+MPKI: 14.944587125286134
+
+
+for benchmark sjeng ...
+reading zsim.out ...
+cycles: 81510085 # Simulated unhalted cycles
+cCycles: 1081782 # Cycles due to contention stalls
+instrs: 100001270 # Simulated instructions
+mGETS: 33561 # GETS misses
+mGETXIM: 2657 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['81510085']
+['1081782']
+total_cycles: 82591867.0
+['100001270']
+IPC: 1.2107883455401245
+['33561'],['2657'],['0']
+total_misses: 36218.0
+MPKI: 0.3621754003724153
+
+
+for benchmark mcf ...
+reading zsim.out ...
+cycles: 632992866 # Simulated unhalted cycles
+cCycles: 142729144 # Cycles due to contention stalls
+instrs: 100000229 # Simulated instructions
+mGETS: 7625105 # GETS misses
+mGETXIM: 116183 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['632992866']
+['142729144']
+total_cycles: 775722010.0
+['100000229']
+IPC: 0.12891245537818374
+['7625105'],['116183'],['0']
+total_misses: 7741288.0
+MPKI: 77.41270272491076
+
+
+for benchmark cactusADM ...
+reading zsim.out ...
+cycles: 84251016 # Simulated unhalted cycles
+cCycles: 9992653 # Cycles due to contention stalls
+instrs: 100004933 # Simulated instructions
+mGETS: 343643 # GETS misses
+mGETXIM: 135438 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['84251016']
+['9992653']
+total_cycles: 94243669.0
+['100004933']
+IPC: 1.06113157585153
+['343643'],['135438'],['0']
+total_misses: 479081.0
+MPKI: 4.790573681000316
+
+
+for benchmark hmmer ...
+reading zsim.out ...
+cycles: 62350002 # Simulated unhalted cycles
+cCycles: 4550649 # Cycles due to contention stalls
+instrs: 100006357 # Simulated instructions
+mGETS: 4121 # GETS misses
+mGETXIM: 133156 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['62350002']
+['4550649']
+total_cycles: 66900651.0
+['100006357']
+IPC: 1.4948487870469302
+['4121'],['133156'],['0']
+total_misses: 137277.0
+MPKI: 1.3726827385583098
+
+
+for benchmark xalan ...
+reading zsim.out ...
+cycles: 65200457 # Simulated unhalted cycles
+cCycles: 3455949 # Cycles due to contention stalls
+instrs: 100009621 # Simulated instructions
+mGETS: 63887 # GETS misses
+mGETXIM: 129707 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['65200457']
+['3455949']
+total_cycles: 68656406.0
+['100009621']
+IPC: 1.456668457128385
+['63887'],['129707'],['0']
+total_misses: 193594.0
+MPKI: 1.9357537611306417
+
+
+for benchmark leslie3d ...
+reading zsim.out ...
+cycles: 170881874 # Simulated unhalted cycles
+cCycles: 44583176 # Cycles due to contention stalls
+instrs: 100001823 # Simulated instructions
+mGETS: 1746313 # GETS misses
+mGETXIM: 637484 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['170881874']
+['44583176']
+total_cycles: 215465050.0
+['100001823']
+IPC: 0.4641208539389567
+['1746313'],['637484'],['0']
+total_misses: 2383797.0
+MPKI: 23.837535441728896
+
+
+for benchmark bzip2 ...
+reading zsim.out ...
+cycles: 91180083 # Simulated unhalted cycles
+cCycles: 6895933 # Cycles due to contention stalls
+instrs: 100024848 # Simulated instructions
+mGETS: 76951 # GETS misses
+mGETXIM: 195653 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['91180083']
+['6895933']
+total_cycles: 98076016.0
+['100024848']
+IPC: 1.0198706276976015
+['76951'],['195653'],['0']
+total_misses: 272604.0
+MPKI: 2.725362801850996
+
+
+for benchmark calculix ...
+reading zsim.out ...
+cycles: 49300002 # Simulated unhalted cycles
+cCycles: 186540 # Cycles due to contention stalls
+instrs: 100014912 # Simulated instructions
+mGETS: 5677 # GETS misses
+mGETXIM: 213 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['49300002']
+['186540']
+total_cycles: 49486542.0
+['100014912']
+IPC: 2.0210527541002965
+['5677'],['213'],['0']
+total_misses: 5890.0
+MPKI: 0.05889121814155073
+
+
+for benchmark gcc ...
+reading zsim.out ...
+cycles: 118341155 # Simulated unhalted cycles
+cCycles: 7507411 # Cycles due to contention stalls
+instrs: 100000259 # Simulated instructions
+mGETS: 214890 # GETS misses
+mGETXIM: 48307 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['118341155']
+['7507411']
+total_cycles: 125848566.0
+['100000259']
+IPC: 0.7946078543318483
+['214890'],['48307'],['0']
+total_misses: 263197.0
+MPKI: 2.6319631832153556
+
+
+for benchmark lbm ...
+reading zsim.out ...
+cycles: 146992443 # Simulated unhalted cycles
+cCycles: 26913723 # Cycles due to contention stalls
+instrs: 100003739 # Simulated instructions
+mGETS: 788905 # GETS misses
+mGETXIM: 2307464 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['146992443']
+['26913723']
+total_cycles: 173906166.0
+['100003739']
+IPC: 0.5750442396619796
+['788905'],['2307464'],['0']
+total_misses: 3096369.0
+MPKI: 30.962532310916895
+
+
+for benchmark libquantum ...
+reading zsim.out ...
+cycles: 158672128 # Simulated unhalted cycles
+cCycles: 36946485 # Cycles due to contention stalls
+instrs: 100002931 # Simulated instructions
+mGETS: 2504618 # GETS misses
+mGETXIM: 16 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['158672128']
+['36946485']
+total_cycles: 195618613.0
+['100002931']
+IPC: 0.5112137820954696
+['2504618'],['16'],['0']
+total_misses: 2504634.0
+MPKI: 25.045605913290682
+
+
+for benchmark namd ...
+reading zsim.out ...
+cycles: 53000004 # Simulated unhalted cycles
+cCycles: 323476 # Cycles due to contention stalls
+instrs: 100001698 # Simulated instructions
+mGETS: 1020 # GETS misses
+mGETXIM: 25800 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['53000004']
+['323476']
+total_cycles: 53323480.0
+['100001698']
+IPC: 1.8753783136434456
+['1020'],['25800'],['0']
+total_misses: 26820.0
+MPKI: 0.2681954460413262
+
+
+for benchmark soplex ...
+reading zsim.out ...
+cycles: 194041995 # Simulated unhalted cycles
+cCycles: 37287933 # Cycles due to contention stalls
+instrs: 100001447 # Simulated instructions
+mGETS: 1729667 # GETS misses
+mGETXIM: 402946 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['194041995']
+['37287933']
+total_cycles: 231329928.0
+['100001447']
+IPC: 0.4322892756012097
+['1729667'],['402946'],['0']
+total_misses: 2132613.0
+MPKI: 21.32582141536412
+
+
+total_cycles_list = {'hmmer': 66900651.0, 'sjeng': 82591867.0, 'leslie3d': 215465050.0, 'soplex': 231329928.0, 'bzip2': 98076016.0, 'namd': 53323480.0, 'libquantum': 195618613.0, 'calculix': 49486542.0, 'mcf': 775722010.0, 'lbm': 173906166.0, 'milc': 150467438.0, 'cactusADM': 94243669.0, 'gcc': 125848566.0, 'xalan': 68656406.0}
+IPC_list = {'hmmer': 1.4948487870469302, 'sjeng': 1.2107883455401245, 'leslie3d': 0.4641208539389567, 'soplex': 0.4322892756012097, 'bzip2': 1.0198706276976015, 'namd': 1.8753783136434456, 'libquantum': 0.5112137820954696, 'calculix': 2.0210527541002965, 'mcf': 0.12891245537818374, 'lbm': 0.5750442396619796, 'milc': 0.6646331015485224, 'cactusADM': 1.06113157585153, 'gcc': 0.7946078543318483, 'xalan': 1.456668457128385}
+MPKI_list = {'hmmer': 1.3726827385583098, 'sjeng': 0.3621754003724153, 'leslie3d': 23.837535441728896, 'soplex': 21.32582141536412, 'bzip2': 2.725362801850996, 'namd': 0.2681954460413262, 'libquantum': 25.045605913290682, 'calculix': 0.05889121814155073, 'mcf': 77.41270272491076, 'lbm': 30.962532310916895, 'milc': 14.944587125286134, 'cactusADM': 4.790573681000316, 'gcc': 2.6319631832153556, 'xalan': 1.9357537611306417}
