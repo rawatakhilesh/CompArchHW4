@@ -70,6 +70,7 @@ def calculate(cycles_list, miss_list, bm_name):
 		misses = float(mGETS[0]) + float(mGETXIM[0]) + float(mGETXSM[0])
 		# total misses for all cores
 		total_misses += misses
+		print(total_misses)
 		k += 4
 		
 	print('total_misses: {}'.format(total_misses))
