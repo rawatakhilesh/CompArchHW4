@@ -69,6 +69,8 @@ def helper(root_dir):
 							with open(file, 'r') as fp:
 								list = []
 								for i, line in enumerate(fp):
+									# As Dr. Bettati would say - programming at the level of a baboon. 
+									# but the next line gets the work done.
 									if i in [15, 16, 17, 73, 74, 75]:
 										# reading 3rd line
 										if debug:
