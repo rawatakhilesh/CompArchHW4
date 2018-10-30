@@ -12,8 +12,9 @@ LRU_vals = [0.007253058177079439, 0.03637395029283124, 13.234347146152546, 1.298
 
 rects1 = ax.bar(ind, LRU_vals, width, color='r')
 
-#LFU_vals = [1,3,4,5,8,9,5,5,9]
-#rects2 = ax.bar(ind+width, LFU_vals, width, color='g')
+LFU_vals = [0.007248627866915517, 0.03659959130275049, 11.85006176289973, 1.247926079222961, 0.8779400057416423, 1.0616984859758987, 3.2404659037047483, 0.0022461731416092766, 0.7802307746151632]
+
+rects2 = ax.bar(ind+width, LFU_vals, width, color='g')
 
 SRRIP_vals = [0.0072486278794048455, 0.0278531808293608, 11.920473910487765, 1.2963319664191433, 0.8815785374565013, 1.0664328582981393, 1.9457962286848287, 0.0022419798737466734, 0.6630149686630252]
 rects3 = ax.bar(ind+width*2, SRRIP_vals, width, color='b')
@@ -21,9 +22,7 @@ rects3 = ax.bar(ind+width*2, SRRIP_vals, width, color='b')
 ax.set_ylabel('Cycles')
 ax.set_xticks(ind+width)
 ax.set_xticklabels( ('blackscholes', 'bodytrack', 'canneal', 'dedup', 'fluidanimate', 'freqmine', 'streamcluster', 'swaptions', 'x264') )
-#ax.legend( (rects1[0], rects2[0], rects3[0]), ('LRU', 'LFU', 'SRRIP') )
-
-ax.legend( (rects1[0], rects3[0]), ('LRU', 'SRRIP') )
+ax.legend( (rects1[0], rects2[0], rects3[0]), ('LRU', 'LFU', 'SRRIP') )
 
 def autolabel(rects):
     for rect in rects:

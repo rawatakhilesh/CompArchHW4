@@ -1,0 +1,1049 @@
+walking /home/comparch/Desktop/casim/zsim/outputs/hw4/LFU ...
+
+for benchmark canneal_8c_simlarge ...
+reading zsim.out ...
+westmere-0: # Core stats
+cycles: 609798108 # Simulated unhalted cycles
+cCycles: 116611885 # Cycles due to contention stalls
+instrs: 215317934 # Simulated instructions
+westmere-1: # Core stats
+cycles: 609980403 # Simulated unhalted cycles
+cCycles: 116687422 # Cycles due to contention stalls
+instrs: 215282546 # Simulated instructions
+westmere-2: # Core stats
+cycles: 609185516 # Simulated unhalted cycles
+cCycles: 116541897 # Cycles due to contention stalls
+instrs: 215080019 # Simulated instructions
+westmere-3: # Core stats
+cycles: 609084407 # Simulated unhalted cycles
+cCycles: 116533638 # Cycles due to contention stalls
+instrs: 215151753 # Simulated instructions
+westmere-4: # Core stats
+cycles: 610274724 # Simulated unhalted cycles
+cCycles: 116738640 # Cycles due to contention stalls
+instrs: 215506383 # Simulated instructions
+westmere-5: # Core stats
+cycles: 609856132 # Simulated unhalted cycles
+cCycles: 116597319 # Cycles due to contention stalls
+instrs: 215359189 # Simulated instructions
+westmere-6: # Core stats
+cycles: 609315702 # Simulated unhalted cycles
+cCycles: 116562649 # Cycles due to contention stalls
+instrs: 215136077 # Simulated instructions
+westmere-7: # Core stats
+cycles: 609155482 # Simulated unhalted cycles
+cCycles: 116544238 # Cycles due to contention stalls
+instrs: 215189360 # Simulated instructions
+l3-0b0: # Cache stats
+mGETS: 2551251 # GETS misses
+mGETXIM: 93 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b1: # Cache stats
+mGETS: 2555224 # GETS misses
+mGETXIM: 91 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b2: # Cache stats
+mGETS: 2552510 # GETS misses
+mGETXIM: 96 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b3: # Cache stats
+mGETS: 2550471 # GETS misses
+mGETXIM: 108 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b4: # Cache stats
+mGETS: 2550810 # GETS misses
+mGETXIM: 103 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b5: # Cache stats
+mGETS: 2547092 # GETS misses
+mGETXIM: 96 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b6: # Cache stats
+mGETS: 2546472 # GETS misses
+mGETXIM: 108 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b7: # Cache stats
+mGETS: 2551452 # GETS misses
+mGETXIM: 105 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['westmere-0: # Core stats', 'cycles: 609798108 # Simulated unhalted cycles', 'cCycles: 116611885 # Cycles due to contention stalls', 'instrs: 215317934 # Simulated instructions', 'westmere-1: # Core stats', 'cycles: 609980403 # Simulated unhalted cycles', 'cCycles: 116687422 # Cycles due to contention stalls', 'instrs: 215282546 # Simulated instructions', 'westmere-2: # Core stats', 'cycles: 609185516 # Simulated unhalted cycles', 'cCycles: 116541897 # Cycles due to contention stalls', 'instrs: 215080019 # Simulated instructions', 'westmere-3: # Core stats', 'cycles: 609084407 # Simulated unhalted cycles', 'cCycles: 116533638 # Cycles due to contention stalls', 'instrs: 215151753 # Simulated instructions', 'westmere-4: # Core stats', 'cycles: 610274724 # Simulated unhalted cycles', 'cCycles: 116738640 # Cycles due to contention stalls', 'instrs: 215506383 # Simulated instructions', 'westmere-5: # Core stats', 'cycles: 609856132 # Simulated unhalted cycles', 'cCycles: 116597319 # Cycles due to contention stalls', 'instrs: 215359189 # Simulated instructions', 'westmere-6: # Core stats', 'cycles: 609315702 # Simulated unhalted cycles', 'cCycles: 116562649 # Cycles due to contention stalls', 'instrs: 215136077 # Simulated instructions', 'westmere-7: # Core stats', 'cycles: 609155482 # Simulated unhalted cycles', 'cCycles: 116544238 # Cycles due to contention stalls', 'instrs: 215189360 # Simulated instructions']
+['609798108']
+['116611885']
+726409993.0
+['215317934']
+['609980403']
+['116687422']
+726667825.0
+['215282546']
+['609185516']
+['116541897']
+725727413.0
+['215080019']
+['609084407']
+['116533638']
+725618045.0
+['215151753']
+['610274724']
+['116738640']
+727013364.0
+['215506383']
+['609856132']
+['116597319']
+726453451.0
+['215359189']
+['609315702']
+['116562649']
+725878351.0
+['215136077']
+['609155482']
+['116544238']
+725699720.0
+['215189360']
+[726409993.0, 726667825.0, 725727413.0, 725618045.0, 727013364.0, 726453451.0, 725878351.0, 725699720.0]
+total_cycles: 727013364.0
+total_instructions: 1722023261.0
+IPC: 2.3686266941855005
+['l3-0b0: # Cache stats', 'mGETS: 2551251 # GETS misses', 'mGETXIM: 93 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b1: # Cache stats', 'mGETS: 2555224 # GETS misses', 'mGETXIM: 91 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b2: # Cache stats', 'mGETS: 2552510 # GETS misses', 'mGETXIM: 96 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b3: # Cache stats', 'mGETS: 2550471 # GETS misses', 'mGETXIM: 108 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b4: # Cache stats', 'mGETS: 2550810 # GETS misses', 'mGETXIM: 103 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b5: # Cache stats', 'mGETS: 2547092 # GETS misses', 'mGETXIM: 96 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b6: # Cache stats', 'mGETS: 2546472 # GETS misses', 'mGETXIM: 108 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b7: # Cache stats', 'mGETS: 2551452 # GETS misses', 'mGETXIM: 105 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)']
+['2551251'],['93'],['0']
+['2555224'],['91'],['0']
+['2552510'],['96'],['0']
+['2550471'],['108'],['0']
+['2550810'],['103'],['0']
+['2547092'],['96'],['0']
+['2546472'],['108'],['0']
+['2551452'],['105'],['0']
+total_misses: 20406082.0
+MPKI: 11.85006176289973
+
+
+for benchmark streamcluster_8c_simlarge ...
+reading zsim.out ...
+westmere-0: # Core stats
+cycles: 665246815 # Simulated unhalted cycles
+cCycles: 63628729 # Cycles due to contention stalls
+instrs: 719028052 # Simulated instructions
+westmere-1: # Core stats
+cycles: 604549059 # Simulated unhalted cycles
+cCycles: 55481471 # Cycles due to contention stalls
+instrs: 630316809 # Simulated instructions
+westmere-2: # Core stats
+cycles: 596703008 # Simulated unhalted cycles
+cCycles: 57692566 # Cycles due to contention stalls
+instrs: 608778911 # Simulated instructions
+westmere-3: # Core stats
+cycles: 596409322 # Simulated unhalted cycles
+cCycles: 57283112 # Cycles due to contention stalls
+instrs: 612366354 # Simulated instructions
+westmere-4: # Core stats
+cycles: 596622664 # Simulated unhalted cycles
+cCycles: 60132796 # Cycles due to contention stalls
+instrs: 589237089 # Simulated instructions
+westmere-5: # Core stats
+cycles: 596588338 # Simulated unhalted cycles
+cCycles: 56145064 # Cycles due to contention stalls
+instrs: 619707235 # Simulated instructions
+westmere-6: # Core stats
+cycles: 596480221 # Simulated unhalted cycles
+cCycles: 57673268 # Cycles due to contention stalls
+instrs: 609606379 # Simulated instructions
+westmere-7: # Core stats
+cycles: 596617427 # Simulated unhalted cycles
+cCycles: 57488595 # Cycles due to contention stalls
+instrs: 610982773 # Simulated instructions
+l3-0b0: # Cache stats
+mGETS: 2059335 # GETS misses
+mGETXIM: 22683 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b1: # Cache stats
+mGETS: 2058563 # GETS misses
+mGETXIM: 19149 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b2: # Cache stats
+mGETS: 1926481 # GETS misses
+mGETXIM: 22717 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b3: # Cache stats
+mGETS: 1798409 # GETS misses
+mGETXIM: 23007 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b4: # Cache stats
+mGETS: 1981250 # GETS misses
+mGETXIM: 21306 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b5: # Cache stats
+mGETS: 2073675 # GETS misses
+mGETXIM: 20446 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b6: # Cache stats
+mGETS: 2062627 # GETS misses
+mGETXIM: 22226 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b7: # Cache stats
+mGETS: 2068593 # GETS misses
+mGETXIM: 21939 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['westmere-0: # Core stats', 'cycles: 665246815 # Simulated unhalted cycles', 'cCycles: 63628729 # Cycles due to contention stalls', 'instrs: 719028052 # Simulated instructions', 'westmere-1: # Core stats', 'cycles: 604549059 # Simulated unhalted cycles', 'cCycles: 55481471 # Cycles due to contention stalls', 'instrs: 630316809 # Simulated instructions', 'westmere-2: # Core stats', 'cycles: 596703008 # Simulated unhalted cycles', 'cCycles: 57692566 # Cycles due to contention stalls', 'instrs: 608778911 # Simulated instructions', 'westmere-3: # Core stats', 'cycles: 596409322 # Simulated unhalted cycles', 'cCycles: 57283112 # Cycles due to contention stalls', 'instrs: 612366354 # Simulated instructions', 'westmere-4: # Core stats', 'cycles: 596622664 # Simulated unhalted cycles', 'cCycles: 60132796 # Cycles due to contention stalls', 'instrs: 589237089 # Simulated instructions', 'westmere-5: # Core stats', 'cycles: 596588338 # Simulated unhalted cycles', 'cCycles: 56145064 # Cycles due to contention stalls', 'instrs: 619707235 # Simulated instructions', 'westmere-6: # Core stats', 'cycles: 596480221 # Simulated unhalted cycles', 'cCycles: 57673268 # Cycles due to contention stalls', 'instrs: 609606379 # Simulated instructions', 'westmere-7: # Core stats', 'cycles: 596617427 # Simulated unhalted cycles', 'cCycles: 57488595 # Cycles due to contention stalls', 'instrs: 610982773 # Simulated instructions']
+['665246815']
+['63628729']
+728875544.0
+['719028052']
+['604549059']
+['55481471']
+660030530.0
+['630316809']
+['596703008']
+['57692566']
+654395574.0
+['608778911']
+['596409322']
+['57283112']
+653692434.0
+['612366354']
+['596622664']
+['60132796']
+656755460.0
+['589237089']
+['596588338']
+['56145064']
+652733402.0
+['619707235']
+['596480221']
+['57673268']
+654153489.0
+['609606379']
+['596617427']
+['57488595']
+654106022.0
+['610982773']
+[728875544.0, 660030530.0, 654395574.0, 653692434.0, 656755460.0, 652733402.0, 654153489.0, 654106022.0]
+total_cycles: 728875544.0
+total_instructions: 5000023602.0
+IPC: 6.859914073341443
+['l3-0b0: # Cache stats', 'mGETS: 2059335 # GETS misses', 'mGETXIM: 22683 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b1: # Cache stats', 'mGETS: 2058563 # GETS misses', 'mGETXIM: 19149 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b2: # Cache stats', 'mGETS: 1926481 # GETS misses', 'mGETXIM: 22717 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b3: # Cache stats', 'mGETS: 1798409 # GETS misses', 'mGETXIM: 23007 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b4: # Cache stats', 'mGETS: 1981250 # GETS misses', 'mGETXIM: 21306 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b5: # Cache stats', 'mGETS: 2073675 # GETS misses', 'mGETXIM: 20446 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b6: # Cache stats', 'mGETS: 2062627 # GETS misses', 'mGETXIM: 22226 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b7: # Cache stats', 'mGETS: 2068593 # GETS misses', 'mGETXIM: 21939 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)']
+['2059335'],['22683'],['0']
+['2058563'],['19149'],['0']
+['1926481'],['22717'],['0']
+['1798409'],['23007'],['0']
+['1981250'],['21306'],['0']
+['2073675'],['20446'],['0']
+['2062627'],['22226'],['0']
+['2068593'],['21939'],['0']
+total_misses: 16202406.0
+MPKI: 3.2404659037047483
+
+
+for benchmark swaptions_8c_simlarge ...
+reading zsim.out ...
+westmere-0: # Core stats
+cycles: 392890013 # Simulated unhalted cycles
+cCycles: 26637 # Cycles due to contention stalls
+instrs: 625011543 # Simulated instructions
+westmere-1: # Core stats
+cycles: 392880001 # Simulated unhalted cycles
+cCycles: 23189 # Cycles due to contention stalls
+instrs: 625014051 # Simulated instructions
+westmere-2: # Core stats
+cycles: 392880025 # Simulated unhalted cycles
+cCycles: 26765 # Cycles due to contention stalls
+instrs: 625005769 # Simulated instructions
+westmere-3: # Core stats
+cycles: 392880002 # Simulated unhalted cycles
+cCycles: 26581 # Cycles due to contention stalls
+instrs: 625006505 # Simulated instructions
+westmere-4: # Core stats
+cycles: 392880004 # Simulated unhalted cycles
+cCycles: 25666 # Cycles due to contention stalls
+instrs: 625012753 # Simulated instructions
+westmere-5: # Core stats
+cycles: 392880007 # Simulated unhalted cycles
+cCycles: 25861 # Cycles due to contention stalls
+instrs: 624997089 # Simulated instructions
+westmere-6: # Core stats
+cycles: 392880011 # Simulated unhalted cycles
+cCycles: 27193 # Cycles due to contention stalls
+instrs: 625003584 # Simulated instructions
+westmere-7: # Core stats
+cycles: 392880001 # Simulated unhalted cycles
+cCycles: 26357 # Cycles due to contention stalls
+instrs: 625008493 # Simulated instructions
+l3-0b0: # Cache stats
+mGETS: 302 # GETS misses
+mGETXIM: 1092 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b1: # Cache stats
+mGETS: 302 # GETS misses
+mGETXIM: 1088 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b2: # Cache stats
+mGETS: 284 # GETS misses
+mGETXIM: 1128 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b3: # Cache stats
+mGETS: 305 # GETS misses
+mGETXIM: 1104 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b4: # Cache stats
+mGETS: 285 # GETS misses
+mGETXIM: 1112 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b5: # Cache stats
+mGETS: 300 # GETS misses
+mGETXIM: 1106 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b6: # Cache stats
+mGETS: 298 # GETS misses
+mGETXIM: 1109 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b7: # Cache stats
+mGETS: 297 # GETS misses
+mGETXIM: 1119 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['westmere-0: # Core stats', 'cycles: 392890013 # Simulated unhalted cycles', 'cCycles: 26637 # Cycles due to contention stalls', 'instrs: 625011543 # Simulated instructions', 'westmere-1: # Core stats', 'cycles: 392880001 # Simulated unhalted cycles', 'cCycles: 23189 # Cycles due to contention stalls', 'instrs: 625014051 # Simulated instructions', 'westmere-2: # Core stats', 'cycles: 392880025 # Simulated unhalted cycles', 'cCycles: 26765 # Cycles due to contention stalls', 'instrs: 625005769 # Simulated instructions', 'westmere-3: # Core stats', 'cycles: 392880002 # Simulated unhalted cycles', 'cCycles: 26581 # Cycles due to contention stalls', 'instrs: 625006505 # Simulated instructions', 'westmere-4: # Core stats', 'cycles: 392880004 # Simulated unhalted cycles', 'cCycles: 25666 # Cycles due to contention stalls', 'instrs: 625012753 # Simulated instructions', 'westmere-5: # Core stats', 'cycles: 392880007 # Simulated unhalted cycles', 'cCycles: 25861 # Cycles due to contention stalls', 'instrs: 624997089 # Simulated instructions', 'westmere-6: # Core stats', 'cycles: 392880011 # Simulated unhalted cycles', 'cCycles: 27193 # Cycles due to contention stalls', 'instrs: 625003584 # Simulated instructions', 'westmere-7: # Core stats', 'cycles: 392880001 # Simulated unhalted cycles', 'cCycles: 26357 # Cycles due to contention stalls', 'instrs: 625008493 # Simulated instructions']
+['392890013']
+['26637']
+392916650.0
+['625011543']
+['392880001']
+['23189']
+392903190.0
+['625014051']
+['392880025']
+['26765']
+392906790.0
+['625005769']
+['392880002']
+['26581']
+392906583.0
+['625006505']
+['392880004']
+['25666']
+392905670.0
+['625012753']
+['392880007']
+['25861']
+392905868.0
+['624997089']
+['392880011']
+['27193']
+392907204.0
+['625003584']
+['392880001']
+['26357']
+392906358.0
+['625008493']
+[392916650.0, 392903190.0, 392906790.0, 392906583.0, 392905670.0, 392905868.0, 392907204.0, 392906358.0]
+total_cycles: 392916650.0
+total_instructions: 5000059787.0
+IPC: 12.725497346574649
+['l3-0b0: # Cache stats', 'mGETS: 302 # GETS misses', 'mGETXIM: 1092 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b1: # Cache stats', 'mGETS: 302 # GETS misses', 'mGETXIM: 1088 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b2: # Cache stats', 'mGETS: 284 # GETS misses', 'mGETXIM: 1128 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b3: # Cache stats', 'mGETS: 305 # GETS misses', 'mGETXIM: 1104 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b4: # Cache stats', 'mGETS: 285 # GETS misses', 'mGETXIM: 1112 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b5: # Cache stats', 'mGETS: 300 # GETS misses', 'mGETXIM: 1106 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b6: # Cache stats', 'mGETS: 298 # GETS misses', 'mGETXIM: 1109 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b7: # Cache stats', 'mGETS: 297 # GETS misses', 'mGETXIM: 1119 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)']
+['302'],['1092'],['0']
+['302'],['1088'],['0']
+['284'],['1128'],['0']
+['305'],['1104'],['0']
+['285'],['1112'],['0']
+['300'],['1106'],['0']
+['298'],['1109'],['0']
+['297'],['1119'],['0']
+total_misses: 11231.0
+MPKI: 0.0022461731416092766
+
+
+for benchmark blackscholes_8c_simlarge ...
+reading zsim.out ...
+westmere-0: # Core stats
+cycles: 372031311 # Simulated unhalted cycles
+cCycles: 85597 # Cycles due to contention stalls
+instrs: 507838614 # Simulated instructions
+westmere-1: # Core stats
+cycles: 371888438 # Simulated unhalted cycles
+cCycles: 86152 # Cycles due to contention stalls
+instrs: 507826013 # Simulated instructions
+westmere-2: # Core stats
+cycles: 371874318 # Simulated unhalted cycles
+cCycles: 85570 # Cycles due to contention stalls
+instrs: 507838513 # Simulated instructions
+westmere-3: # Core stats
+cycles: 371896705 # Simulated unhalted cycles
+cCycles: 86881 # Cycles due to contention stalls
+instrs: 507819013 # Simulated instructions
+westmere-4: # Core stats
+cycles: 371928398 # Simulated unhalted cycles
+cCycles: 83055 # Cycles due to contention stalls
+instrs: 507846413 # Simulated instructions
+westmere-5: # Core stats
+cycles: 371910809 # Simulated unhalted cycles
+cCycles: 86284 # Cycles due to contention stalls
+instrs: 507858713 # Simulated instructions
+westmere-6: # Core stats
+cycles: 371873666 # Simulated unhalted cycles
+cCycles: 83882 # Cycles due to contention stalls
+instrs: 507835248 # Simulated instructions
+westmere-7: # Core stats
+cycles: 371932895 # Simulated unhalted cycles
+cCycles: 85395 # Cycles due to contention stalls
+instrs: 507837413 # Simulated instructions
+l3-0b0: # Cache stats
+mGETS: 3146 # GETS misses
+mGETXIM: 536 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b1: # Cache stats
+mGETS: 3150 # GETS misses
+mGETXIM: 534 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b2: # Cache stats
+mGETS: 3141 # GETS misses
+mGETXIM: 531 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b3: # Cache stats
+mGETS: 3148 # GETS misses
+mGETXIM: 534 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b4: # Cache stats
+mGETS: 3153 # GETS misses
+mGETXIM: 535 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b5: # Cache stats
+mGETS: 3144 # GETS misses
+mGETXIM: 533 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b6: # Cache stats
+mGETS: 3148 # GETS misses
+mGETXIM: 531 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b7: # Cache stats
+mGETS: 3151 # GETS misses
+mGETXIM: 534 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['westmere-0: # Core stats', 'cycles: 372031311 # Simulated unhalted cycles', 'cCycles: 85597 # Cycles due to contention stalls', 'instrs: 507838614 # Simulated instructions', 'westmere-1: # Core stats', 'cycles: 371888438 # Simulated unhalted cycles', 'cCycles: 86152 # Cycles due to contention stalls', 'instrs: 507826013 # Simulated instructions', 'westmere-2: # Core stats', 'cycles: 371874318 # Simulated unhalted cycles', 'cCycles: 85570 # Cycles due to contention stalls', 'instrs: 507838513 # Simulated instructions', 'westmere-3: # Core stats', 'cycles: 371896705 # Simulated unhalted cycles', 'cCycles: 86881 # Cycles due to contention stalls', 'instrs: 507819013 # Simulated instructions', 'westmere-4: # Core stats', 'cycles: 371928398 # Simulated unhalted cycles', 'cCycles: 83055 # Cycles due to contention stalls', 'instrs: 507846413 # Simulated instructions', 'westmere-5: # Core stats', 'cycles: 371910809 # Simulated unhalted cycles', 'cCycles: 86284 # Cycles due to contention stalls', 'instrs: 507858713 # Simulated instructions', 'westmere-6: # Core stats', 'cycles: 371873666 # Simulated unhalted cycles', 'cCycles: 83882 # Cycles due to contention stalls', 'instrs: 507835248 # Simulated instructions', 'westmere-7: # Core stats', 'cycles: 371932895 # Simulated unhalted cycles', 'cCycles: 85395 # Cycles due to contention stalls', 'instrs: 507837413 # Simulated instructions']
+['372031311']
+['85597']
+372116908.0
+['507838614']
+['371888438']
+['86152']
+371974590.0
+['507826013']
+['371874318']
+['85570']
+371959888.0
+['507838513']
+['371896705']
+['86881']
+371983586.0
+['507819013']
+['371928398']
+['83055']
+372011453.0
+['507846413']
+['371910809']
+['86284']
+371997093.0
+['507858713']
+['371873666']
+['83882']
+371957548.0
+['507835248']
+['371932895']
+['85395']
+372018290.0
+['507837413']
+[372116908.0, 371974590.0, 371959888.0, 371983586.0, 372011453.0, 371997093.0, 371957548.0, 372018290.0]
+total_cycles: 372116908.0
+total_instructions: 4062699940.0
+IPC: 10.917805272100132
+['l3-0b0: # Cache stats', 'mGETS: 3146 # GETS misses', 'mGETXIM: 536 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b1: # Cache stats', 'mGETS: 3150 # GETS misses', 'mGETXIM: 534 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b2: # Cache stats', 'mGETS: 3141 # GETS misses', 'mGETXIM: 531 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b3: # Cache stats', 'mGETS: 3148 # GETS misses', 'mGETXIM: 534 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b4: # Cache stats', 'mGETS: 3153 # GETS misses', 'mGETXIM: 535 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b5: # Cache stats', 'mGETS: 3144 # GETS misses', 'mGETXIM: 533 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b6: # Cache stats', 'mGETS: 3148 # GETS misses', 'mGETXIM: 531 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b7: # Cache stats', 'mGETS: 3151 # GETS misses', 'mGETXIM: 534 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)']
+['3146'],['536'],['0']
+['3150'],['534'],['0']
+['3141'],['531'],['0']
+['3148'],['534'],['0']
+['3153'],['535'],['0']
+['3144'],['533'],['0']
+['3148'],['531'],['0']
+['3151'],['534'],['0']
+total_misses: 29449.0
+MPKI: 0.007248627866915517
+
+
+for benchmark dedup_8c_simlarge ...
+reading zsim.out ...
+westmere-0: # Core stats
+cycles: 467655733 # Simulated unhalted cycles
+cCycles: 25143336 # Cycles due to contention stalls
+instrs: 616725969 # Simulated instructions
+westmere-1: # Core stats
+cycles: 468426655 # Simulated unhalted cycles
+cCycles: 24641326 # Cycles due to contention stalls
+instrs: 620235127 # Simulated instructions
+westmere-2: # Core stats
+cycles: 468421949 # Simulated unhalted cycles
+cCycles: 30250277 # Cycles due to contention stalls
+instrs: 570687014 # Simulated instructions
+westmere-3: # Core stats
+cycles: 468422204 # Simulated unhalted cycles
+cCycles: 23695304 # Cycles due to contention stalls
+instrs: 612021316 # Simulated instructions
+westmere-4: # Core stats
+cycles: 468422271 # Simulated unhalted cycles
+cCycles: 24904673 # Cycles due to contention stalls
+instrs: 646667372 # Simulated instructions
+westmere-5: # Core stats
+cycles: 467879634 # Simulated unhalted cycles
+cCycles: 15250771 # Cycles due to contention stalls
+instrs: 677253042 # Simulated instructions
+westmere-6: # Core stats
+cycles: 468421469 # Simulated unhalted cycles
+cCycles: 21783829 # Cycles due to contention stalls
+instrs: 644737240 # Simulated instructions
+westmere-7: # Core stats
+cycles: 468422506 # Simulated unhalted cycles
+cCycles: 30923341 # Cycles due to contention stalls
+instrs: 611724689 # Simulated instructions
+l3-0b0: # Cache stats
+mGETS: 393702 # GETS misses
+mGETXIM: 386013 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b1: # Cache stats
+mGETS: 393942 # GETS misses
+mGETXIM: 386032 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b2: # Cache stats
+mGETS: 394352 # GETS misses
+mGETXIM: 385918 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b3: # Cache stats
+mGETS: 394115 # GETS misses
+mGETXIM: 385978 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b4: # Cache stats
+mGETS: 394148 # GETS misses
+mGETXIM: 385765 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b5: # Cache stats
+mGETS: 394218 # GETS misses
+mGETXIM: 385878 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b6: # Cache stats
+mGETS: 393958 # GETS misses
+mGETXIM: 385972 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b7: # Cache stats
+mGETS: 393855 # GETS misses
+mGETXIM: 385849 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['westmere-0: # Core stats', 'cycles: 467655733 # Simulated unhalted cycles', 'cCycles: 25143336 # Cycles due to contention stalls', 'instrs: 616725969 # Simulated instructions', 'westmere-1: # Core stats', 'cycles: 468426655 # Simulated unhalted cycles', 'cCycles: 24641326 # Cycles due to contention stalls', 'instrs: 620235127 # Simulated instructions', 'westmere-2: # Core stats', 'cycles: 468421949 # Simulated unhalted cycles', 'cCycles: 30250277 # Cycles due to contention stalls', 'instrs: 570687014 # Simulated instructions', 'westmere-3: # Core stats', 'cycles: 468422204 # Simulated unhalted cycles', 'cCycles: 23695304 # Cycles due to contention stalls', 'instrs: 612021316 # Simulated instructions', 'westmere-4: # Core stats', 'cycles: 468422271 # Simulated unhalted cycles', 'cCycles: 24904673 # Cycles due to contention stalls', 'instrs: 646667372 # Simulated instructions', 'westmere-5: # Core stats', 'cycles: 467879634 # Simulated unhalted cycles', 'cCycles: 15250771 # Cycles due to contention stalls', 'instrs: 677253042 # Simulated instructions', 'westmere-6: # Core stats', 'cycles: 468421469 # Simulated unhalted cycles', 'cCycles: 21783829 # Cycles due to contention stalls', 'instrs: 644737240 # Simulated instructions', 'westmere-7: # Core stats', 'cycles: 468422506 # Simulated unhalted cycles', 'cCycles: 30923341 # Cycles due to contention stalls', 'instrs: 611724689 # Simulated instructions']
+['467655733']
+['25143336']
+492799069.0
+['616725969']
+['468426655']
+['24641326']
+493067981.0
+['620235127']
+['468421949']
+['30250277']
+498672226.0
+['570687014']
+['468422204']
+['23695304']
+492117508.0
+['612021316']
+['468422271']
+['24904673']
+493326944.0
+['646667372']
+['467879634']
+['15250771']
+483130405.0
+['677253042']
+['468421469']
+['21783829']
+490205298.0
+['644737240']
+['468422506']
+['30923341']
+499345847.0
+['611724689']
+[492799069.0, 493067981.0, 498672226.0, 492117508.0, 493326944.0, 483130405.0, 490205298.0, 499345847.0]
+total_cycles: 499345847.0
+total_instructions: 5000051769.0
+IPC: 10.013203872705885
+['l3-0b0: # Cache stats', 'mGETS: 393702 # GETS misses', 'mGETXIM: 386013 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b1: # Cache stats', 'mGETS: 393942 # GETS misses', 'mGETXIM: 386032 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b2: # Cache stats', 'mGETS: 394352 # GETS misses', 'mGETXIM: 385918 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b3: # Cache stats', 'mGETS: 394115 # GETS misses', 'mGETXIM: 385978 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b4: # Cache stats', 'mGETS: 394148 # GETS misses', 'mGETXIM: 385765 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b5: # Cache stats', 'mGETS: 394218 # GETS misses', 'mGETXIM: 385878 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b6: # Cache stats', 'mGETS: 393958 # GETS misses', 'mGETXIM: 385972 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b7: # Cache stats', 'mGETS: 393855 # GETS misses', 'mGETXIM: 385849 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)']
+['393702'],['386013'],['0']
+['393942'],['386032'],['0']
+['394352'],['385918'],['0']
+['394115'],['385978'],['0']
+['394148'],['385765'],['0']
+['394218'],['385878'],['0']
+['393958'],['385972'],['0']
+['393855'],['385849'],['0']
+total_misses: 6239695.0
+MPKI: 1.247926079222961
+
+
+for benchmark bodytrack_8c_simlarge ...
+reading zsim.out ...
+westmere-0: # Core stats
+cycles: 411382776 # Simulated unhalted cycles
+cCycles: 1328743 # Cycles due to contention stalls
+instrs: 702868532 # Simulated instructions
+westmere-1: # Core stats
+cycles: 361730314 # Simulated unhalted cycles
+cCycles: 476648 # Cycles due to contention stalls
+instrs: 607391900 # Simulated instructions
+westmere-2: # Core stats
+cycles: 359798277 # Simulated unhalted cycles
+cCycles: 340342 # Cycles due to contention stalls
+instrs: 606279427 # Simulated instructions
+westmere-3: # Core stats
+cycles: 359911193 # Simulated unhalted cycles
+cCycles: 395702 # Cycles due to contention stalls
+instrs: 605955459 # Simulated instructions
+westmere-4: # Core stats
+cycles: 367618288 # Simulated unhalted cycles
+cCycles: 385983 # Cycles due to contention stalls
+instrs: 617012061 # Simulated instructions
+westmere-5: # Core stats
+cycles: 359682727 # Simulated unhalted cycles
+cCycles: 390615 # Cycles due to contention stalls
+instrs: 605824964 # Simulated instructions
+westmere-6: # Core stats
+cycles: 374075699 # Simulated unhalted cycles
+cCycles: 460916 # Cycles due to contention stalls
+instrs: 625936355 # Simulated instructions
+westmere-7: # Core stats
+cycles: 375675253 # Simulated unhalted cycles
+cCycles: 335270 # Cycles due to contention stalls
+instrs: 628841781 # Simulated instructions
+l3-0b0: # Cache stats
+mGETS: 12028 # GETS misses
+mGETXIM: 10783 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b1: # Cache stats
+mGETS: 11993 # GETS misses
+mGETXIM: 10840 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b2: # Cache stats
+mGETS: 12000 # GETS misses
+mGETXIM: 10814 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b3: # Cache stats
+mGETS: 12114 # GETS misses
+mGETXIM: 10830 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b4: # Cache stats
+mGETS: 12059 # GETS misses
+mGETXIM: 10854 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b5: # Cache stats
+mGETS: 12063 # GETS misses
+mGETXIM: 10800 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b6: # Cache stats
+mGETS: 12067 # GETS misses
+mGETXIM: 10829 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b7: # Cache stats
+mGETS: 12114 # GETS misses
+mGETXIM: 10814 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['westmere-0: # Core stats', 'cycles: 411382776 # Simulated unhalted cycles', 'cCycles: 1328743 # Cycles due to contention stalls', 'instrs: 702868532 # Simulated instructions', 'westmere-1: # Core stats', 'cycles: 361730314 # Simulated unhalted cycles', 'cCycles: 476648 # Cycles due to contention stalls', 'instrs: 607391900 # Simulated instructions', 'westmere-2: # Core stats', 'cycles: 359798277 # Simulated unhalted cycles', 'cCycles: 340342 # Cycles due to contention stalls', 'instrs: 606279427 # Simulated instructions', 'westmere-3: # Core stats', 'cycles: 359911193 # Simulated unhalted cycles', 'cCycles: 395702 # Cycles due to contention stalls', 'instrs: 605955459 # Simulated instructions', 'westmere-4: # Core stats', 'cycles: 367618288 # Simulated unhalted cycles', 'cCycles: 385983 # Cycles due to contention stalls', 'instrs: 617012061 # Simulated instructions', 'westmere-5: # Core stats', 'cycles: 359682727 # Simulated unhalted cycles', 'cCycles: 390615 # Cycles due to contention stalls', 'instrs: 605824964 # Simulated instructions', 'westmere-6: # Core stats', 'cycles: 374075699 # Simulated unhalted cycles', 'cCycles: 460916 # Cycles due to contention stalls', 'instrs: 625936355 # Simulated instructions', 'westmere-7: # Core stats', 'cycles: 375675253 # Simulated unhalted cycles', 'cCycles: 335270 # Cycles due to contention stalls', 'instrs: 628841781 # Simulated instructions']
+['411382776']
+['1328743']
+412711519.0
+['702868532']
+['361730314']
+['476648']
+362206962.0
+['607391900']
+['359798277']
+['340342']
+360138619.0
+['606279427']
+['359911193']
+['395702']
+360306895.0
+['605955459']
+['367618288']
+['385983']
+368004271.0
+['617012061']
+['359682727']
+['390615']
+360073342.0
+['605824964']
+['374075699']
+['460916']
+374536615.0
+['625936355']
+['375675253']
+['335270']
+376010523.0
+['628841781']
+[412711519.0, 362206962.0, 360138619.0, 360306895.0, 368004271.0, 360073342.0, 374536615.0, 376010523.0]
+total_cycles: 412711519.0
+total_instructions: 5000110479.0
+IPC: 12.115267562958426
+['l3-0b0: # Cache stats', 'mGETS: 12028 # GETS misses', 'mGETXIM: 10783 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b1: # Cache stats', 'mGETS: 11993 # GETS misses', 'mGETXIM: 10840 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b2: # Cache stats', 'mGETS: 12000 # GETS misses', 'mGETXIM: 10814 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b3: # Cache stats', 'mGETS: 12114 # GETS misses', 'mGETXIM: 10830 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b4: # Cache stats', 'mGETS: 12059 # GETS misses', 'mGETXIM: 10854 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b5: # Cache stats', 'mGETS: 12063 # GETS misses', 'mGETXIM: 10800 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b6: # Cache stats', 'mGETS: 12067 # GETS misses', 'mGETXIM: 10829 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b7: # Cache stats', 'mGETS: 12114 # GETS misses', 'mGETXIM: 10814 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)']
+['12028'],['10783'],['0']
+['11993'],['10840'],['0']
+['12000'],['10814'],['0']
+['12114'],['10830'],['0']
+['12059'],['10854'],['0']
+['12063'],['10800'],['0']
+['12067'],['10829'],['0']
+['12114'],['10814'],['0']
+total_misses: 183002.0
+MPKI: 0.03659959130275049
+
+
+for benchmark x264_8c_simlarge ...
+reading zsim.out ...
+westmere-0: # Core stats
+cycles: 435168278 # Simulated unhalted cycles
+cCycles: 10651290 # Cycles due to contention stalls
+instrs: 735641011 # Simulated instructions
+westmere-1: # Core stats
+cycles: 361165720 # Simulated unhalted cycles
+cCycles: 7998645 # Cycles due to contention stalls
+instrs: 601116209 # Simulated instructions
+westmere-2: # Core stats
+cycles: 380347747 # Simulated unhalted cycles
+cCycles: 7273165 # Cycles due to contention stalls
+instrs: 635690392 # Simulated instructions
+westmere-3: # Core stats
+cycles: 380744070 # Simulated unhalted cycles
+cCycles: 6978832 # Cycles due to contention stalls
+instrs: 635074034 # Simulated instructions
+westmere-4: # Core stats
+cycles: 371347253 # Simulated unhalted cycles
+cCycles: 6133152 # Cycles due to contention stalls
+instrs: 614379204 # Simulated instructions
+westmere-5: # Core stats
+cycles: 369864391 # Simulated unhalted cycles
+cCycles: 6789788 # Cycles due to contention stalls
+instrs: 616309956 # Simulated instructions
+westmere-6: # Core stats
+cycles: 360946152 # Simulated unhalted cycles
+cCycles: 6263625 # Cycles due to contention stalls
+instrs: 597393701 # Simulated instructions
+westmere-7: # Core stats
+cycles: 338825331 # Simulated unhalted cycles
+cCycles: 5762711 # Cycles due to contention stalls
+instrs: 564472556 # Simulated instructions
+l3-0b0: # Cache stats
+mGETS: 342789 # GETS misses
+mGETXIM: 145170 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b1: # Cache stats
+mGETS: 341061 # GETS misses
+mGETXIM: 145498 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b2: # Cache stats
+mGETS: 341770 # GETS misses
+mGETXIM: 144766 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b3: # Cache stats
+mGETS: 342082 # GETS misses
+mGETXIM: 145498 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b4: # Cache stats
+mGETS: 342963 # GETS misses
+mGETXIM: 145323 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b5: # Cache stats
+mGETS: 342661 # GETS misses
+mGETXIM: 145136 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b6: # Cache stats
+mGETS: 342864 # GETS misses
+mGETXIM: 145398 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b7: # Cache stats
+mGETS: 343132 # GETS misses
+mGETXIM: 145103 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['westmere-0: # Core stats', 'cycles: 435168278 # Simulated unhalted cycles', 'cCycles: 10651290 # Cycles due to contention stalls', 'instrs: 735641011 # Simulated instructions', 'westmere-1: # Core stats', 'cycles: 361165720 # Simulated unhalted cycles', 'cCycles: 7998645 # Cycles due to contention stalls', 'instrs: 601116209 # Simulated instructions', 'westmere-2: # Core stats', 'cycles: 380347747 # Simulated unhalted cycles', 'cCycles: 7273165 # Cycles due to contention stalls', 'instrs: 635690392 # Simulated instructions', 'westmere-3: # Core stats', 'cycles: 380744070 # Simulated unhalted cycles', 'cCycles: 6978832 # Cycles due to contention stalls', 'instrs: 635074034 # Simulated instructions', 'westmere-4: # Core stats', 'cycles: 371347253 # Simulated unhalted cycles', 'cCycles: 6133152 # Cycles due to contention stalls', 'instrs: 614379204 # Simulated instructions', 'westmere-5: # Core stats', 'cycles: 369864391 # Simulated unhalted cycles', 'cCycles: 6789788 # Cycles due to contention stalls', 'instrs: 616309956 # Simulated instructions', 'westmere-6: # Core stats', 'cycles: 360946152 # Simulated unhalted cycles', 'cCycles: 6263625 # Cycles due to contention stalls', 'instrs: 597393701 # Simulated instructions', 'westmere-7: # Core stats', 'cycles: 338825331 # Simulated unhalted cycles', 'cCycles: 5762711 # Cycles due to contention stalls', 'instrs: 564472556 # Simulated instructions']
+['435168278']
+['10651290']
+445819568.0
+['735641011']
+['361165720']
+['7998645']
+369164365.0
+['601116209']
+['380347747']
+['7273165']
+387620912.0
+['635690392']
+['380744070']
+['6978832']
+387722902.0
+['635074034']
+['371347253']
+['6133152']
+377480405.0
+['614379204']
+['369864391']
+['6789788']
+376654179.0
+['616309956']
+['360946152']
+['6263625']
+367209777.0
+['597393701']
+['338825331']
+['5762711']
+344588042.0
+['564472556']
+[445819568.0, 369164365.0, 387620912.0, 387722902.0, 377480405.0, 376654179.0, 367209777.0, 344588042.0]
+total_cycles: 445819568.0
+total_instructions: 5000077063.0
+IPC: 11.215472406092323
+['l3-0b0: # Cache stats', 'mGETS: 342789 # GETS misses', 'mGETXIM: 145170 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b1: # Cache stats', 'mGETS: 341061 # GETS misses', 'mGETXIM: 145498 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b2: # Cache stats', 'mGETS: 341770 # GETS misses', 'mGETXIM: 144766 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b3: # Cache stats', 'mGETS: 342082 # GETS misses', 'mGETXIM: 145498 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b4: # Cache stats', 'mGETS: 342963 # GETS misses', 'mGETXIM: 145323 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b5: # Cache stats', 'mGETS: 342661 # GETS misses', 'mGETXIM: 145136 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b6: # Cache stats', 'mGETS: 342864 # GETS misses', 'mGETXIM: 145398 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b7: # Cache stats', 'mGETS: 343132 # GETS misses', 'mGETXIM: 145103 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)']
+['342789'],['145170'],['0']
+['341061'],['145498'],['0']
+['341770'],['144766'],['0']
+['342082'],['145498'],['0']
+['342963'],['145323'],['0']
+['342661'],['145136'],['0']
+['342864'],['145398'],['0']
+['343132'],['145103'],['0']
+total_misses: 3901214.0
+MPKI: 0.7802307746151632
+
+
+for benchmark freqmine_8c_simlarge ...
+reading zsim.out ...
+westmere-0: # Core stats
+cycles: 1629681538 # Simulated unhalted cycles
+cCycles: 48490119 # Cycles due to contention stalls
+instrs: 2281173923 # Simulated instructions
+westmere-1: # Core stats
+cycles: 357271676 # Simulated unhalted cycles
+cCycles: 20162322 # Cycles due to contention stalls
+instrs: 384685902 # Simulated instructions
+westmere-2: # Core stats
+cycles: 347002368 # Simulated unhalted cycles
+cCycles: 16017755 # Cycles due to contention stalls
+instrs: 394479174 # Simulated instructions
+westmere-3: # Core stats
+cycles: 356859514 # Simulated unhalted cycles
+cCycles: 18580409 # Cycles due to contention stalls
+instrs: 387197701 # Simulated instructions
+westmere-4: # Core stats
+cycles: 351035625 # Simulated unhalted cycles
+cCycles: 17879740 # Cycles due to contention stalls
+instrs: 390939084 # Simulated instructions
+westmere-5: # Core stats
+cycles: 359518645 # Simulated unhalted cycles
+cCycles: 20015848 # Cycles due to contention stalls
+instrs: 382529419 # Simulated instructions
+westmere-6: # Core stats
+cycles: 361462691 # Simulated unhalted cycles
+cCycles: 21616653 # Cycles due to contention stalls
+instrs: 382701572 # Simulated instructions
+westmere-7: # Core stats
+cycles: 363039131 # Simulated unhalted cycles
+cCycles: 22679729 # Cycles due to contention stalls
+instrs: 396343682 # Simulated instructions
+l3-0b0: # Cache stats
+mGETS: 307523 # GETS misses
+mGETXIM: 355565 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b1: # Cache stats
+mGETS: 308068 # GETS misses
+mGETXIM: 355702 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b2: # Cache stats
+mGETS: 308079 # GETS misses
+mGETXIM: 355581 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b3: # Cache stats
+mGETS: 308423 # GETS misses
+mGETXIM: 355706 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b4: # Cache stats
+mGETS: 308360 # GETS misses
+mGETXIM: 355509 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b5: # Cache stats
+mGETS: 307493 # GETS misses
+mGETXIM: 355483 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b6: # Cache stats
+mGETS: 307687 # GETS misses
+mGETXIM: 355541 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b7: # Cache stats
+mGETS: 308183 # GETS misses
+mGETXIM: 355643 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['westmere-0: # Core stats', 'cycles: 1629681538 # Simulated unhalted cycles', 'cCycles: 48490119 # Cycles due to contention stalls', 'instrs: 2281173923 # Simulated instructions', 'westmere-1: # Core stats', 'cycles: 357271676 # Simulated unhalted cycles', 'cCycles: 20162322 # Cycles due to contention stalls', 'instrs: 384685902 # Simulated instructions', 'westmere-2: # Core stats', 'cycles: 347002368 # Simulated unhalted cycles', 'cCycles: 16017755 # Cycles due to contention stalls', 'instrs: 394479174 # Simulated instructions', 'westmere-3: # Core stats', 'cycles: 356859514 # Simulated unhalted cycles', 'cCycles: 18580409 # Cycles due to contention stalls', 'instrs: 387197701 # Simulated instructions', 'westmere-4: # Core stats', 'cycles: 351035625 # Simulated unhalted cycles', 'cCycles: 17879740 # Cycles due to contention stalls', 'instrs: 390939084 # Simulated instructions', 'westmere-5: # Core stats', 'cycles: 359518645 # Simulated unhalted cycles', 'cCycles: 20015848 # Cycles due to contention stalls', 'instrs: 382529419 # Simulated instructions', 'westmere-6: # Core stats', 'cycles: 361462691 # Simulated unhalted cycles', 'cCycles: 21616653 # Cycles due to contention stalls', 'instrs: 382701572 # Simulated instructions', 'westmere-7: # Core stats', 'cycles: 363039131 # Simulated unhalted cycles', 'cCycles: 22679729 # Cycles due to contention stalls', 'instrs: 396343682 # Simulated instructions']
+['1629681538']
+['48490119']
+1678171657.0
+['2281173923']
+['357271676']
+['20162322']
+377433998.0
+['384685902']
+['347002368']
+['16017755']
+363020123.0
+['394479174']
+['356859514']
+['18580409']
+375439923.0
+['387197701']
+['351035625']
+['17879740']
+368915365.0
+['390939084']
+['359518645']
+['20015848']
+379534493.0
+['382529419']
+['361462691']
+['21616653']
+383079344.0
+['382701572']
+['363039131']
+['22679729']
+385718860.0
+['396343682']
+[1678171657.0, 377433998.0, 363020123.0, 375439923.0, 368915365.0, 379534493.0, 383079344.0, 385718860.0]
+total_cycles: 1678171657.0
+total_instructions: 5000050457.0
+IPC: 2.9794630579915697
+['l3-0b0: # Cache stats', 'mGETS: 307523 # GETS misses', 'mGETXIM: 355565 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b1: # Cache stats', 'mGETS: 308068 # GETS misses', 'mGETXIM: 355702 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b2: # Cache stats', 'mGETS: 308079 # GETS misses', 'mGETXIM: 355581 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b3: # Cache stats', 'mGETS: 308423 # GETS misses', 'mGETXIM: 355706 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b4: # Cache stats', 'mGETS: 308360 # GETS misses', 'mGETXIM: 355509 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b5: # Cache stats', 'mGETS: 307493 # GETS misses', 'mGETXIM: 355483 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b6: # Cache stats', 'mGETS: 307687 # GETS misses', 'mGETXIM: 355541 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b7: # Cache stats', 'mGETS: 308183 # GETS misses', 'mGETXIM: 355643 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)']
+['307523'],['355565'],['0']
+['308068'],['355702'],['0']
+['308079'],['355581'],['0']
+['308423'],['355706'],['0']
+['308360'],['355509'],['0']
+['307493'],['355483'],['0']
+['307687'],['355541'],['0']
+['308183'],['355643'],['0']
+total_misses: 5308546.0
+MPKI: 1.0616984859758987
+
+
+for benchmark fluidanimate_8c_simlarge ...
+reading zsim.out ...
+westmere-0: # Core stats
+cycles: 439999234 # Simulated unhalted cycles
+cCycles: 17636955 # Cycles due to contention stalls
+instrs: 608951778 # Simulated instructions
+westmere-1: # Core stats
+cycles: 436291494 # Simulated unhalted cycles
+cCycles: 16274473 # Cycles due to contention stalls
+instrs: 629818739 # Simulated instructions
+westmere-2: # Core stats
+cycles: 397301536 # Simulated unhalted cycles
+cCycles: 17354310 # Cycles due to contention stalls
+instrs: 558812503 # Simulated instructions
+westmere-3: # Core stats
+cycles: 466463153 # Simulated unhalted cycles
+cCycles: 16784361 # Cycles due to contention stalls
+instrs: 662321977 # Simulated instructions
+westmere-4: # Core stats
+cycles: 423941703 # Simulated unhalted cycles
+cCycles: 18227895 # Cycles due to contention stalls
+instrs: 586977492 # Simulated instructions
+westmere-5: # Core stats
+cycles: 509010230 # Simulated unhalted cycles
+cCycles: 16805722 # Cycles due to contention stalls
+instrs: 702397270 # Simulated instructions
+westmere-6: # Core stats
+cycles: 480332438 # Simulated unhalted cycles
+cCycles: 16362122 # Cycles due to contention stalls
+instrs: 671840053 # Simulated instructions
+westmere-7: # Core stats
+cycles: 411495371 # Simulated unhalted cycles
+cCycles: 16920793 # Cycles due to contention stalls
+instrs: 578982668 # Simulated instructions
+l3-0b0: # Cache stats
+mGETS: 379159 # GETS misses
+mGETXIM: 170221 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b1: # Cache stats
+mGETS: 378424 # GETS misses
+mGETXIM: 170305 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b2: # Cache stats
+mGETS: 378776 # GETS misses
+mGETXIM: 170126 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b3: # Cache stats
+mGETS: 378498 # GETS misses
+mGETXIM: 170279 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b4: # Cache stats
+mGETS: 377437 # GETS misses
+mGETXIM: 170149 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b5: # Cache stats
+mGETS: 378662 # GETS misses
+mGETXIM: 170236 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b6: # Cache stats
+mGETS: 378683 # GETS misses
+mGETXIM: 170175 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+l3-0b7: # Cache stats
+mGETS: 378365 # GETS misses
+mGETXIM: 170295 # GETX I->M misses
+mGETXSM: 0 # GETX S->M misses (upgrade misses)
+['westmere-0: # Core stats', 'cycles: 439999234 # Simulated unhalted cycles', 'cCycles: 17636955 # Cycles due to contention stalls', 'instrs: 608951778 # Simulated instructions', 'westmere-1: # Core stats', 'cycles: 436291494 # Simulated unhalted cycles', 'cCycles: 16274473 # Cycles due to contention stalls', 'instrs: 629818739 # Simulated instructions', 'westmere-2: # Core stats', 'cycles: 397301536 # Simulated unhalted cycles', 'cCycles: 17354310 # Cycles due to contention stalls', 'instrs: 558812503 # Simulated instructions', 'westmere-3: # Core stats', 'cycles: 466463153 # Simulated unhalted cycles', 'cCycles: 16784361 # Cycles due to contention stalls', 'instrs: 662321977 # Simulated instructions', 'westmere-4: # Core stats', 'cycles: 423941703 # Simulated unhalted cycles', 'cCycles: 18227895 # Cycles due to contention stalls', 'instrs: 586977492 # Simulated instructions', 'westmere-5: # Core stats', 'cycles: 509010230 # Simulated unhalted cycles', 'cCycles: 16805722 # Cycles due to contention stalls', 'instrs: 702397270 # Simulated instructions', 'westmere-6: # Core stats', 'cycles: 480332438 # Simulated unhalted cycles', 'cCycles: 16362122 # Cycles due to contention stalls', 'instrs: 671840053 # Simulated instructions', 'westmere-7: # Core stats', 'cycles: 411495371 # Simulated unhalted cycles', 'cCycles: 16920793 # Cycles due to contention stalls', 'instrs: 578982668 # Simulated instructions']
+['439999234']
+['17636955']
+457636189.0
+['608951778']
+['436291494']
+['16274473']
+452565967.0
+['629818739']
+['397301536']
+['17354310']
+414655846.0
+['558812503']
+['466463153']
+['16784361']
+483247514.0
+['662321977']
+['423941703']
+['18227895']
+442169598.0
+['586977492']
+['509010230']
+['16805722']
+525815952.0
+['702397270']
+['480332438']
+['16362122']
+496694560.0
+['671840053']
+['411495371']
+['16920793']
+428416164.0
+['578982668']
+[457636189.0, 452565967.0, 414655846.0, 483247514.0, 442169598.0, 525815952.0, 496694560.0, 428416164.0]
+total_cycles: 525815952.0
+total_instructions: 5000102480.0
+IPC: 9.509225539813977
+['l3-0b0: # Cache stats', 'mGETS: 379159 # GETS misses', 'mGETXIM: 170221 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b1: # Cache stats', 'mGETS: 378424 # GETS misses', 'mGETXIM: 170305 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b2: # Cache stats', 'mGETS: 378776 # GETS misses', 'mGETXIM: 170126 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b3: # Cache stats', 'mGETS: 378498 # GETS misses', 'mGETXIM: 170279 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b4: # Cache stats', 'mGETS: 377437 # GETS misses', 'mGETXIM: 170149 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b5: # Cache stats', 'mGETS: 378662 # GETS misses', 'mGETXIM: 170236 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b6: # Cache stats', 'mGETS: 378683 # GETS misses', 'mGETXIM: 170175 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)', 'l3-0b7: # Cache stats', 'mGETS: 378365 # GETS misses', 'mGETXIM: 170295 # GETX I->M misses', 'mGETXSM: 0 # GETX S->M misses (upgrade misses)']
+['379159'],['170221'],['0']
+['378424'],['170305'],['0']
+['378776'],['170126'],['0']
+['378498'],['170279'],['0']
+['377437'],['170149'],['0']
+['378662'],['170236'],['0']
+['378683'],['170175'],['0']
+['378365'],['170295'],['0']
+total_misses: 4389790.0
+MPKI: 0.8779400057416423
+
+
+total_cycles_list = {'blackscholes_8c_simlarge': 372116908.0, 'dedup_8c_simlarge': 499345847.0, 'canneal_8c_simlarge': 727013364.0, 'streamcluster_8c_simlarge': 728875544.0, 'swaptions_8c_simlarge': 392916650.0, 'freqmine_8c_simlarge': 1678171657.0, 'x264_8c_simlarge': 445819568.0, 'fluidanimate_8c_simlarge': 525815952.0, 'bodytrack_8c_simlarge': 412711519.0}
+IPC_list = {'blackscholes_8c_simlarge': 10.917805272100132, 'dedup_8c_simlarge': 10.013203872705885, 'canneal_8c_simlarge': 2.3686266941855005, 'streamcluster_8c_simlarge': 6.859914073341443, 'swaptions_8c_simlarge': 12.725497346574649, 'freqmine_8c_simlarge': 2.9794630579915697, 'x264_8c_simlarge': 11.215472406092323, 'fluidanimate_8c_simlarge': 9.509225539813977, 'bodytrack_8c_simlarge': 12.115267562958426}
+MPKI_list = {'blackscholes_8c_simlarge': 0.007248627866915517, 'dedup_8c_simlarge': 1.247926079222961, 'canneal_8c_simlarge': 11.85006176289973, 'streamcluster_8c_simlarge': 3.2404659037047483, 'swaptions_8c_simlarge': 0.0022461731416092766, 'freqmine_8c_simlarge': 1.0616984859758987, 'x264_8c_simlarge': 0.7802307746151632, 'fluidanimate_8c_simlarge': 0.8779400057416423, 'bodytrack_8c_simlarge': 0.03659959130275049}
