@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 N = 14
 ind = np.arange(N)  # the x locations for the groups
-width = 0.25      # the width of the bars
+width = 0.15     # the width of the bars
 
 fig = plt.figure()
 ax = fig.add_subplot(111)
@@ -19,11 +19,11 @@ rects3 = ax.bar(ind+width*2, SRRIP_vals, width, color='#525252')
 
 
 
-ax.set_ylabel('Cycles')
+ax.set_ylabel('Cycles', fontsize=20)
 ax.set_xticks(ind+width)
-ax.set_xticklabels( ('bzip2', 'gcc', 'mcf', 'hmmer', 'sjeng', 'libquantum', 'xalan', 'milc', 'cactusADM', 'leslie3d', 'namd', 'soplex', 'calculix', 'lbm') )
+ax.set_xticklabels( ('bzip2', 'gcc', 'mcf', 'hmmer', 'sjeng', 'libquantum', 'xalan', 'milc', 'cactusADM', 'leslie3d', 'namd', 'soplex', 'calculix', 'lbm'), rotation=90, fontsize=20  )
 
-ax.legend( (rects1[0], rects2[0], rects3[0]), ('LRU', 'LFU', 'SRRIP') )
+ax.legend( (rects1[0], rects2[0], rects3[0]), ('LRU', 'LFU', 'SRRIP'), fontsize = 'x-large'  )
 
 def autolabel(rects):
     for rect in rects:
@@ -34,5 +34,6 @@ def autolabel(rects):
 #autolabel(rects1)
 #autolabel(rects2)
 #autolabel(rects3)
-
+ax.tick_params(axis = 'y', which = 'major', labelsize = 15)
+ax.tick_params(axis = 'y', which = 'minor', labelsize = 15)
 plt.show()

@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 N = 9
 ind = np.arange(N)  # the x locations for the groups
-width = 0.20      # the width of the bars
+width = 0.15      # the width of the bars
 
 fig = plt.figure()
 ax = fig.add_subplot(111)
@@ -20,10 +20,10 @@ SRRIP_vals = [10.9178063095188, 12.632542774462248, 2.3661928915677364, 9.831459
 
 rects3 = ax.bar(ind+width*2, SRRIP_vals, width, color='#525252')
 
-ax.set_ylabel('IPC')
+ax.set_ylabel('IPC', fontsize=20)
 ax.set_xticks(ind+width)
-ax.set_xticklabels( ('blackscholes', 'bodytrack', 'canneal', 'dedup', 'fluidanimate', 'freqmine', 'streamcluster', 'swaptions', 'x264') )
-ax.legend( (rects1[0], rects2[0], rects3[0]), ('LRU', 'LFU', 'SRRIP') )
+ax.set_xticklabels( ('blackscholes', 'bodytrack', 'canneal', 'dedup', 'fluidanimate', 'freqmine', 'streamcluster', 'swaptions', 'x264'), rotation=90, fontsize=20 )
+ax.legend( (rects1[0], rects2[0], rects3[0]), ('LRU', 'LFU', 'SRRIP'), fontsize = 'x-large' )
 
 def autolabel(rects):
     for rect in rects:
@@ -34,5 +34,6 @@ def autolabel(rects):
 #autolabel(rects1)
 #autolabel(rects2)
 #autolabel(rects3)
-
+ax.tick_params(axis = 'y', which = 'major', labelsize = 15)
+ax.tick_params(axis = 'y', which = 'minor', labelsize = 15)
 plt.show()
