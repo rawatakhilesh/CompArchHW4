@@ -1,6 +1,6 @@
 # Akhilesh Rawat
 # walk the path and grab the lines
-# leaves the multi thread benchmarks
+# leaves the single thread benchmarks
 
 import os
 import sys
